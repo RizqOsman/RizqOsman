@@ -1,36 +1,31 @@
 <div align="center">
   <img src="./assets/img/logo.png" width="120" alt="Umbrella Corp Logo" />
 
-  # ☣️ UMBRELLA CORPORATION - CLASSIFIED TERMINAL ☣️
-  > *"Our business is life itself."*
+  <h1>☣️ UMBRELLA CORPORATION - CLASSIFIED TERMINAL ☣️</h1>
+  <em>"Our business is life itself."</em>
 
-  ---
+  <hr />
 
-  **SYSTEM LOGIN ACCEPTED:** Arrizque Osman
-  **SECURITY CLEARANCE:**   
-  **PRIMARY DIRECTIVE:** Advanced System Architecture, IT Ops & Tactical Network Operations
+  <b>SYSTEM LOGIN ACCEPTED:</b> RizqOsman <br/>
+  <b>SECURITY CLEARANCE:</b> Level 8 (Network Engineering) <br/>
+  <b>PRIMARY DIRECTIVE:</b> Advanced System Architecture, IT Ops & Tactical Network Operations
 
 </div>
 
-### 🧬 Operative Profile
-Melakukan rekayasa infrastruktur digital dan pengembangan perangkat lunak tingkat lanjut. Fokus pada keamanan skala produksi, jaringan berkinerja tinggi, dan arsitektur *Clean Code / SOLID principles*.
-
-### 💉 Bio-Digital Arsenal
-
-**[ R&D Development ]**
+**[ R&D Development ]** <br/>
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff0000)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=ff0000)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ff0000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ff0000)
 ![Tauri](https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=ff0000)
 
-**[ Tactical IT Ops & Infrastructure ]**
+**[ Tactical IT Ops & Infrastructure ]** <br/>
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ff0000)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-000000?style=for-the-badge&logo=windows&logoColor=ff0000)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-000000?style=for-the-badge&logo=microsoft&logoColor=ff0000)
 ![Proxmox](https://img.shields.io/badge/Proxmox-000000?style=for-the-badge&logo=proxmox&logoColor=ff0000)
 
-**[ Network Grid & Cyber Defense ]**
+**[ Network Grid & Cyber Defense ]** <br/>
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logo=databricks&logoColor=ff0000)
 ![Cisco](https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco&logoColor=ff0000)
 ![MikroTik](https://img.shields.io/badge/MikroTik-000000?style=for-the-badge&logo=mikrotik&logoColor=ff0000)
