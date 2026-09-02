@@ -7,7 +7,7 @@
   ---
 
   **SYSTEM LOGIN ACCEPTED:** Arrizque Osman
-  **SECURITY CLEARANCE:** Level 10 (Senior Engineer)
+  **SECURITY CLEARANCE:**   
   **PRIMARY DIRECTIVE:** Advanced System Architecture, IT Ops & Tactical Network Operations
 
 </div>
